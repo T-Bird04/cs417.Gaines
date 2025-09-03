@@ -1,0 +1,11 @@
+﻿  cs417Asg01.cpp
+C:\Users\Terrence\Projects\CS372 Local\cs417Asg01\Circle.h(33,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'cs417Asg01.cpp')
+  
+C:\Users\Terrence\Projects\CS372 Local\cs417Asg01\Circle.h(38,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'cs417Asg01.cpp')
+  
+C:\Users\Terrence\Projects\CS372 Local\cs417Asg01\Triangle.h(59,13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'cs417Asg01.cpp')
+  
+  cs417Asg01.vcxproj -> C:\Users\Terrence\Projects\CS372 Local\cs417Asg01\x64\Debug\cs417Asg01.exe
